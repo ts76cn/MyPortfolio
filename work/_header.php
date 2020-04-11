@@ -1,16 +1,16 @@
 <?php
 
-// $message = 'エンジニア転職活動中です' /* . date('l')*/;
+$message = 'エンジニア転職活動中です' /* . date('l')*/;
 
 $n = mt_rand(1, 3);
 
-if ($n === 1) {
-    $message = 'UI/UXデザイナー見習いです';
-} elseif ($n === 2) {
-    $message = 'プログラミング勉強中です';
-} else {
-    $message = 'PHPちょっとわかります';
-}
+// if ($n === 1) {
+//     $message = 'UI/UXデザイナー見習いです';
+// } elseif ($n === 2) {
+//     $message = 'プログラミング勉強中です';
+// } else {
+//     $message = 'PHPちょっとわかります';
+// }
 
 ?>
 
